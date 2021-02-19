@@ -1,6 +1,6 @@
 # Home Assistant Component for Deako Lighting
 
-This component implements support for [Deako](https://deako.com) smart lighting in [Home Assistant](https://home-assistant.io). It is a work in progress, see [issues](issues/) for details on remaining work.
+This component implements support for [Deako](https://deako.com) smart lighting in [Home Assistant](https://home-assistant.io). It is a work in progress, see [issues](https://github.com/iamwillbar/home-assistant-deako/issues) for details on remaining work.
 
 ## Installation
 Until the component has been submitted to Home Assistant you will need to install the component manually by:
