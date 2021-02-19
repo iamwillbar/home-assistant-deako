@@ -1,0 +1,6 @@
+{
+  "domain": "deako",
+  "name": "Deako",
+  "documentation": "https://github.com/iamwillbar/home-assistant-deako",
+  "codeowners": ["@iamwillbar"]
+}
