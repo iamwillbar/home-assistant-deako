@@ -1,6 +1,14 @@
 {
   "domain": "deako",
   "name": "Deako",
-  "documentation": "https://github.com/iamwillbar/home-assistant-deako",
-  "codeowners": ["@iamwillbar"]
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/test",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@iamwillbar"
+  ]
 }
